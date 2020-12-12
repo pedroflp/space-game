@@ -1,6 +1,6 @@
 
 // Settings
-let canvas
+let canvas;
 
 let vidaNave = 100;
 
